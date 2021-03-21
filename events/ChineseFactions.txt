@@ -18,7 +18,6 @@ country_event = {
 	
 	trigger = {
 		any_owned_province = {
-			is_capital = no
 			is_state = yes
 			NOT = { has_province_modifier = chi_local_trade_regulations }
 			NOT = { has_province_modifier = chi_local_trade_down_turn }
